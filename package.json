@@ -1,0 +1,17 @@
+{
+  "name": "patika.dev-reactjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Halil Enes",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.2.4",
+    "slugify": "^1.6.5"
+  }
+}
